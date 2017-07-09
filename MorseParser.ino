@@ -2,7 +2,7 @@ int buttonIn = 2;
 int ledOut = 7;
 int redLedOut = 8;
 int val;
-String message = "seven nine two 4"; //Change this to make new message.
+String message = "Hello World"; //Change this to make new message.
 
 void setup() {
   // put your setup code here, to run once:
